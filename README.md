@@ -8,7 +8,7 @@ I have three ideas. **Idea 1 (Yixing zisha) is my choice**, and Ideas 2 and 3 ar
 | | Idea | In one line | Decision |
 |---|---|---|---|
 | 1 | **Yixing zisha** | Make a zisha teapot by hand: pound, smooth, open the kiln | **Chosen** |
-| 2 | **Procrastination × stars** | Get only the first 2-minute step; each step lights a star | Backup |
+| 2 | **Procrastination × a journey** | Get only the first 2-minute step; each step moves you across the earth, with friends | Backup |
 | 3 | **A calm world with a friend** | Explore a beautiful scene together, like NAIAD | Second backup |
 
 ---
@@ -37,27 +37,27 @@ I have three ideas. **Idea 1 (Yixing zisha) is my choice**, and Ideas 2 and 3 ar
 
 ---
 
-## Idea 2 — Procrastination × stars
+## Idea 2 — Procrastination × a journey across the earth
 
-**Concept.** A small tool for the moment before you start. You type one task, like "write my essay." It gives you **only the first step you can do in two minutes**, like "open the document and type the title." When you finish, **a star lights up** in your sky. Over days, the stars of one project join into a constellation.
+**Concept.** A small game for the moment before you start. You type one task, like "write my essay." It gives you **only the first step you can do in two minutes**, like "open the document and type the title." When you finish, your traveler **walks forward on a hand-drawn earth**, and small steps add up to a trip to new places, like a rainy old town or a snowy mountain. You can travel **with friends online**: everyone's steps move the group forward.
 
-**Why me.** I procrastinate. I talked about this with my teacher in office hours, and he liked making it a game. My own doubt: people who can't start don't have the energy to break a task into steps. So here, **the tool does the breaking**, and the person only does one tiny thing.
+**Why me.** I procrastinate, and I love traveling. My teacher liked making this a game. My own doubt: people who can't start don't have the energy to break a task into steps, so here **the tool does the breaking**.
 
-**What's different.** Most to-do and focus apps ask you to plan first. This one skips planning and starts with one tiny step. I'd read about task initiation, implementation intentions (Gollwitzer) and temporal motivation theory (Steel).
+**What's different.** Most to-do apps ask you to plan first. This one starts with one tiny step, and the reward is a journey you can share. I'd read about task initiation and implementation intentions (Gollwitzer).
 
-**Audience and testers.** Students who find it hard to start, including me. Classmates during finals week.
+**Audience and testers.** Students who find it hard to start, including me, and friends who want to keep each other going. Classmates during finals week.
 
-**Core experience.** Type a task → see one 2-minute step → start → finish → a star lights up → next step or stop.
+**Core experience.** Type a task → see one 2-minute step → start → finish → your traveler moves forward → arrive in a new place, alone or with friends.
 
 | Must | Should | Nice |
 |---|---|---|
-| One task → first 2-minute step → timer → a star | Next step, and a constellation for each project | Focus sound that grows while you work |
-| A gentle stop, no punishment | Edit a step if it's too big | Share your sky with a friend |
-| Suggestions made on my laptop (local model), so tasks stay private | Simple, calm star art | Reminders at a chosen time |
+| One task → first 2-minute step → timer → move forward | Travel with friends online, with shared progress | A postcard when you arrive |
+| Three hand-drawn places | See friends' travelers on the map | Sounds for each place |
+| A gentle stop, no punishment | Suggestions made on my laptop (local model), so tasks stay private | Reminders at a chosen time |
 
-**Riskiest unknown.** Does a suggested 2-minute step really help me start? Spike: try three real tasks, with and without a suggested first step, and note how long it takes to begin.
+**Riskiest unknown.** Does moving forward on a journey really help me start? Online play is also a lot of work. Spike: try three real tasks, with and without the journey, and note how long it takes to begin.
 
-**Decision.** **Backup.** Useful every day, but many habit and focus apps already exist (Forest, Finch, Habitica), so it would be harder to make it feel like mine.
+**Decision.** **Backup.** Useful every day and fun to share, but online play and art for every place would take a lot of time. I'd start with one player and three places.
 
 ---
 
@@ -90,7 +90,7 @@ I have three ideas. **Idea 1 (Yixing zisha) is my choice**, and Ideas 2 and 3 ar
 | | Experience | Scope | Riskiest unknown |
 |---|---|---|---|
 | **1. Zisha** | Making by hand, calm and repeatable | Small: one core action | Can pounding feel calm and fun? |
-| **2. Stars** | A tiny start, every day | Small to medium | Does a 2-minute step help people start? |
+| **2. Journey** | A tiny start every day, shared with friends | Medium | Does moving forward help people start? |
 | **3. Calm world** | Beautiful scenes, shared with a friend | Medium | Is it more than pretty? |
 
 I wanted something meaningful, something people **play more than once**, something only I can make, and something I can finish well by December 14. Zisha meets all four. Cozy "making" games I enjoy, like step-by-step cake games, showed me that a calm, repeatable making loop can be fun.
